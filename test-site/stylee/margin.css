@@ -1,0 +1,33 @@
+body {
+   
+}
+
+.coba {
+    width: 150px;
+    height: 150px;
+    background-color: azure;
+    overflow: auto;
+    margin-bottom: 50px;
+    margin: auto;
+}
+
+
+
+.satu {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 10px 20px 30px 40px;
+}
+
+.dua {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}
+
+.tiga {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}

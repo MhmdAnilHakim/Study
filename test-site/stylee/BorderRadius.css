@@ -1,0 +1,19 @@
+body {
+    background-color: #f8419f;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+   border-radius: 50% 50% 0 0;
+    text-align: center;
+    line-height: 200px;
+    overflow: hidden;
+    margin: auto;
+}
+
+div img {
+    width: 200px;
+   
+}
