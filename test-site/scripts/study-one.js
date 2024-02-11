@@ -286,3 +286,10 @@
 
 // console.log(hasil)
 
+
+// function penjumlahanDuaKubus(a,b) {
+//     return a * a * b * b ;
+// }
+
+// console.log(penjumlahanDuaKubus(3,4))
+
