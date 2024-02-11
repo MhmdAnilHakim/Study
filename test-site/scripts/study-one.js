@@ -229,15 +229,60 @@
 
 // console.log(hasil)
 
-function plus(a,b) {
-    return plus
-}
 
-var a = parseInt(prompt('Masukan Nilai'))
+// var nama = "Anil Hakim"
 
-var b = parseInt(prompt('masukan nilai'))
+// console.log(nama.charAt(6))
 
-var hasil = tambah(a,b)
+// var bil = Math.random()
+
+// console.log(bil)
 
 
-console.log(hasil)
+// function jumlahBilangan(a,b) {
+//     var total = a % b
+    
+//     return total
+// }
+
+// console.log(jumlahBilangan(10,5))
+
+// var jumlahBilangan = function(a,b) {
+//     var total = a * b
+
+//     return total
+// }
+
+// console.log(jumlahBilangan(10,7))
+// console.log(jumlahBilangan(10,8))
+
+// var jumlahDuaKubus = function (a,b) {
+//     var kubusA;
+//     var kubusB;
+//     var total
+
+//     kubusA = a * a * a * a
+//     kubusB = b * b * b * b
+
+//     total = kubusA + kubusB
+
+//     return total
+// }
+
+// console.log(jumlahDuaKubus(10,5))
+// console.log(jumlahDuaKubus(4,4))
+
+// function tambah(a,b) {
+//     return a + b
+// }
+
+// function kali(a,b) {
+//     return a * b
+// }
+
+// var hasil = kali(
+//     tambah(4,4), tambah(5,3), 
+// )
+
+// console.log(hasil)
+
