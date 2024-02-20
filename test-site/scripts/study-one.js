@@ -293,3 +293,18 @@
 
 // console.log(penjumlahanDuaKubus(3,4))
 
+// function kali(a,b) {
+//     var kaliA
+//     var kaliB
+//     var hasil
+
+//     kaliA = a * a + b
+//     kaliB = b * b * a
+
+//     hasil = kaliA - kaliB
+
+//     return hasil
+
+// }
+
+// console.log(kali(5,8))
